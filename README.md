@@ -73,6 +73,20 @@ Clarity is a lightweight Chrome extension that helps users instantly understand 
 
 ---
 
+## Screenshots
+
+**Home Screen**:
+
+![](images/home.png)
+
+**Settings Screen**:
+
+![](images/settings.png)
+
+---
+
+---
+
 ## Architecture Overview
 
 ```
